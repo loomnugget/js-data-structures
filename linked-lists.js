@@ -1,4 +1,4 @@
-// Javascript implementations of linked lists
+use strict;
 
 // Create a Node
 function Node(data, next = null) {
